@@ -17,7 +17,8 @@ This repository organizes research by thematic areas that integrate reasoning wi
 ![Framework overview](figs/overview.png)
 
 ## 🔔 News
-**[03/09/26]** 📊 Slides are now available to provide a clearer overview of the survey and highlight key insights. We will continue updating the paper with further improvements.
+**[03/09/26]** 📊 [Slides](materials/Agentic%20Reasoning%20Survey%20Talk.pdf) are now available to provide a clearer overview of the survey and highlight key insights. We will continue updating the paper with further improvements.
+
 **[01/21/26]** 🚀 We have released a comprehensive survey on ***Agentic Reasoning for Large Language Models***! The paper is now available on [arxiv](https://arxiv.org/abs/2601.12538) and [HuggingFace](https://huggingface.co/papers/2601.12538). We welcome contributions from the community to help expand and improve our survey 🤗!
 
 ## 📋 Table of Contents
@@ -267,6 +268,7 @@ If you find this repository or paper useful, please consider citing the survey p
 | [MultiTool-CoT: GPT-3 Can Use Multiple External Tools with Chain of Thought Prompting](https://aclanthology.org/2023.acl-short.130/) | ACL 2023 |
 | [Interleaving Retrieval with Chain-of-Thought Reasoning for Knowledge-Intensive Multi-Step Questions](https://aclanthology.org/2023.acl-long.557/) | ACL 2023 |
 | [ReAct: Synergizing Reasoning and Acting in Language Models](https://arxiv.org/abs/2210.03629) | ICLR 2023 |
+| [Toward PDDL Planning Copilot](https://arxiv.org/abs/2509.12987) | 2025 |
 | [ART: Automatic Multi-step Reasoning and Tool-use for Large Language Models](https://arxiv.org/abs/2303.09014) | 2023 |
 
 ##### Optimizing Context for Tool Interaction
